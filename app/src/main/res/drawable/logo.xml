@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:width="20dp" android:height="20dp" android:drawable="@drawable/baseline_cloud_240"/>
+    <item android:width="8dp" android:height="8dp" android:drawable="@drawable/clothes" android:top="1dp" android:gravity="center_horizontal|center_vertical"/>
+
+
+</layer-list>
